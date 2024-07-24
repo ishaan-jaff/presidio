@@ -25,9 +25,9 @@
 | Usage | Text      | Python file                            | [Passing a lambda as a Presidio anonymizer using Faker](python/example_custom_lambda_anonymizer.py)|
 | Usage | Text      | Python file                            | [Synthetic data generation with OpenAI](python/synth_data_with_openai.ipynb)|
 | Usage      | | REST API (postman)                          | [Presidio as a REST endpoint](docker/index.md)|
+| Usage      | | LiteLLM Gateway with Presidio               | [Presidio with LiteLLM Proxy Server](deployments/litellm/index.md)|
 | Deployment | | App Service                                 | [Presidio with App Service](deployments/app-service/index.md)|
 | Deployment | | Kubernetes                                  | [Presidio with Kubernetes](deployments/k8s/index.md)|
-| Deployment | | LiteLLM Gateway with Presidio               | [Presidio with LiteLLM Proxy Server](deployments/litellm/index.md)|
 | Deployment | | Spark/Azure Databricks                      | [Presidio with Spark](deployments/spark/index.md)|
 | Deployment | | Azure Data Factory with App Service         | [ETL for small dataset](deployments/data-factory/presidio-data-factory.md#option-1-presidio-as-an-http-rest-endpoint) |
 | Deployment | | Azure Data Factory with Databricks          | [ETL for large datasets](deployments/data-factory/presidio-data-factory.md#option-2-presidio-on-azure-databricks) |
